@@ -6,7 +6,7 @@ This document lists the characters in Data at Work and the technologies they rep
 
 | Character | Technical motif | Story role | Defining traits |
 |---|---|---|---|
-| [Data-chan (working name)](list/data.md) | Data | Newly created traveler and protagonist | Curious and slightly clumsy; searches for her purpose while being processed, transformed, stored, and transmitted |
+| [Data (working name)](list/data.md) | Data | Newly created traveler and protagonist | Curious and slightly clumsy; searches for her purpose while being processed, transformed, stored, and transmitted |
 
 > The story presents her as one continuous protagonist, but technical explanations distinguish her fictional continuity from real operations such as copying, transformation, and regeneration.
 

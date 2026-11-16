@@ -14,7 +14,7 @@
 - **Original function**: A unit of data transmitted through a network
 - **Job in the story world**: Encapsulate data and carry it toward a destination
 - **Primary area**: Network District
-- **Collaborators**: TCP, UDP, IP, routers, and Data-chan
+- **Collaborators**: TCP, UDP, IP, routers, and Data
 - **Obstacles**: Congestion, loss, reordering, and unreachable destinations
 
 | Technical fact | Character interpretation | Story effect |
@@ -42,9 +42,9 @@
 ## Scene Ideas
 
 - **First appearance**: Episode 4, “Departing by Packet!”
-- **Ability scene**: Carries Data-chan while routers forward it from one route to the next
+- **Ability scene**: Carries Data while routers forward it from one route to the next
 - **Limitation scene**: Congestion separates it from its companions and changes their arrival order
-- **Relationship scene**: Data-chan realizes that communication depends on many systems, not on the packet alone
+- **Relationship scene**: Data realizes that communication depends on many systems, not on the packet alone
 
 ## Technical Accuracy Notes
 

@@ -38,7 +38,7 @@ The districts are not independent countries. Like real systems, they constantly 
 
 ## 3. Protagonist
 
-### Data-chan (working name)
+### Data (working name)
 
 - **Role**: A traveler exploring the information city
 - **Personality**: Curious and slightly clumsy

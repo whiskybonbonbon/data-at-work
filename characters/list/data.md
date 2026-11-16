@@ -1,8 +1,8 @@
-# Data-chan (Working Name)
+# Data (Working Name)
 
 ## Character Core
 
-- **Name**: Data-chan (working name)
+- **Name**: Data (working name)
 - **Motif**: Data
 - **Role**: Protagonist and newly created traveler in the information city
 - **Character in one sentence**: A curious piece of data searching for the reason she was created while traveling through a vast digital city

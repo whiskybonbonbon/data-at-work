@@ -4,7 +4,7 @@
 
 Data at Work is a creative project set inside computers and web services. It presents technical systems as characters whose jobs and adventures reveal how technology works.
 
-The story follows Data-chan, a newly created piece of data, as she travels through the frontend, network, backend, and database districts. Along the way, she discovers why she was created and meets the many workers who support information systems. The project aims to give beginners an approachable introduction to technology while offering experienced engineers recognizable details and discoveries.
+The story follows Data, a newly created piece of data, as she travels through the frontend, network, backend, and database districts. Along the way, she discovers why she was created and meets the many workers who support information systems. The project aims to give beginners an approachable introduction to technology while offering experienced engineers recognizable details and discoveries.
 
 ## Project Documents
 
@@ -18,7 +18,7 @@ The story follows Data-chan, a newly created piece of data, as she travels throu
 |---|---|
 | Genres | Technology education, workplace story, adventure, comedy |
 | Concept | Engineering × anthropomorphism × education × entertainment |
-| Protagonist | A newly created piece of data called Data-chan (working name) |
+| Protagonist | A newly created piece of data called Data (working name) |
 | Setting | Digital World (working name), a vast city inside computers and web services |
 | Audience | Everyone from programming beginners to working engineers |
 | Possible formats | Manga, animation, and web content |
